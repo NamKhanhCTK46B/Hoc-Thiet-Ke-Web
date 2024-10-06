@@ -1,0 +1,22 @@
+body {
+
+    background-color: #333333;
+
+  }
+
+blockquote {
+    border: 4px dashed;
+    color: #508C19;
+    background-color: #B4BDE6;
+    background-clip: content-box;
+}
+
+h1 {
+
+    color: #00FF00;
+
+    background-color: #FFFFFF;
+
+    opacity: .25;
+
+}
